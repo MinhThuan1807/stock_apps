@@ -111,7 +111,12 @@
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.551 0.027 264.364);
 }
-
+.emoji-flag {
+  font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', 'Arial', sans-serif;
+  font-size: 1.2em;
+line-height: 1;
+  vertical-align: middle;
+}
 /* === CUSTOM COLOR THEME === */
 @theme {
   /* Extended Gray Scale */
